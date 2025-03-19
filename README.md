@@ -1,5 +1,5 @@
 # chrono-projects
 
-## The main branch is empty atm
+# Links
 
-- please check out the branches for projects
+## [Single Page CV](https://github.com/chrono-04/chrono-projects/tree/single-page-cv)
